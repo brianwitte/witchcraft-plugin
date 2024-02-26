@@ -112,4 +112,6 @@
   (build '{:server glowstone :api-version 1.12})
   (build '{:server paper :api-version 1.17})
   (build '{:server paper :api-version 1.18})
+  (build '{:server paper :api-version 1.19})
+  (build '{:server paper :api-version 1.20})
   (build '{:server spigot :api-version 1.17}))

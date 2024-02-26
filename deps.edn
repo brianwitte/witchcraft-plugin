@@ -12,6 +12,9 @@
   :mc/glowstone-1.12 {:extra-deps {net.glowstone/glowstone {:mvn/version "2021.8.0"}}}
   :mc/paper-1.17 {:extra-deps {io.papermc.paper/paper-api {:mvn/version "1.17.1-R0.1-SNAPSHOT"}}}
   :mc/paper-1.18 {:extra-deps {io.papermc.paper/paper-api {:mvn/version "1.18-rc3-R0.1-SNAPSHOT"}}}
+  :mc/paper-1.19 {:extra-deps {io.papermc.paper/paper-api {:mvn/version "1.19.4-R0.1-SNAPSHOT"}}}
+  :mc/paper-1.20 {:extra-deps {io.papermc.paper/paper-api {:mvn/version "1.20.1-R0.1-SNAPSHOT"}}}
+  :mc/spigot-1.17 {:extra-deps {org.spigotmc/spigot-api {:mvn/version "1.17.1-R0.1-SNAPSHOT"}}}
   :mc/spigot-1.17 {:extra-deps {org.spigotmc/spigot-api {:mvn/version "1.17.1-R0.1-SNAPSHOT"}}}
 
   ;; :mc/paper     {:extra-deps {io.papermc/paper {:local/root "/home/arne/Downloads/paper-1.17.1-157.jar"}}}
